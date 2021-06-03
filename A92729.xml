@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scots mist yet gathering to wet English-men to the skinne, or, The people and souldiers observations on the Scots declaration to the Parliament of England. July 1648 compared with their former observations on the Scots message November 1647. And both of them, with the Scotts present invasion of England, by a great army of old souldiers and Irish rebells, for all our goods, to be forcibly maintained on the spoyle and ruins of the people: For establishing 1. Themselves, their wives, children and servants in all places of England, where they can be able to subdue and keep. 2. The king (or Duke Hamilton) on his royall throne. 3. Their cruel and severe (but not true nor sincere) religion, with a priest in every parish, if not the late 26 bloudy bishops (which were degraded) for all.</title>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92729</idno><idno type="EEBO-CITATION">50805840</idno>
+  <idno type="VID">162216</idno>
+  <idno type="EEBO-PROQUEST">2240877817</idno>
+  
+            <idno type="STC">Wing S2027</idno>
+            <idno type="STC">Thomason E463_9</idno>
+            <idno type="OCLC">50805840</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92729)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162216)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E463[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scots mist yet gathering to wet English-men to the skinne, or, The people and souldiers observations on the Scots declaration to the Parliament of England. July 1648 compared with their former observations on the Scots message November 1647. And both of them, with the Scotts present invasion of England, by a great army of old souldiers and Irish rebells, for all our goods, to be forcibly maintained on the spoyle and ruins of the people: For establishing 1. Themselves, their wives, children and servants in all places of England, where they can be able to subdue and keep. 2. The king (or Duke Hamilton) on his royall throne. 3. Their cruel and severe (but not true nor sincere) religion, with a priest in every parish, if not the late 26 bloudy bishops (which were degraded) for all.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:162216:1"/>
+            <head>THE SCOTS MIST, Yet gathering To wet <hi>English-men</hi> to the skinne; OR The people and Souldiers observations on the Scots Declaration to the Parla<g ref="char:EOLhyphen"/>ment of <hi>England. Jul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 1648. Compared with Their former observations on the Scots Message <hi>November</hi> 1647. And both of them, w<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th The Scotts present invasion of <hi>England,</hi> by a great Army of old Souldiers and <hi>Irish</hi> Rebells, for all our goods, to be forci<g ref="char:EOLhyphen"/>bly maintained on the spoyle and ruins of the people: For establishing
+<list>
+                  <item>1. <hi>Themselves, their Wives, children and servants in all places of</hi> England, <hi>where they can be able to subdue and keep.</hi>
+                  </item>
+                  <item>2. <hi>The King (or Duke</hi> Hamleton) <hi>on his Royall Thron<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </item>
+                  <item>3. <hi>Their cruell and severe (but not true nor sincere) Religion, with a Priest in every Parish, if not the late</hi> 26 <hi>bloudy Bishops (which were degraded) for all.</hi>
+                  </item>
+               </list>
+            </head>
+            <p>IT seemeth (dear brethren) that either yee have not du<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y con<g ref="char:EOLhyphen"/>sid<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed, or very suddenly forgotten, those observations (con<g ref="char:EOLhyphen"/>taining many just admonitions and needfull reprehensions) which we the people and Souldiers of <hi>England,</hi> (different from you in judgment and practice) divulged in print, to shew your great inconstancy, ingratitude, injustice, double dealing and self-seeking (in divers respects) by that your M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssage to the Parliament of <hi>England, Nov.</hi> 5. 1647. (also in print) concer<g ref="char:EOLhyphen"/>ning
+<pb n="2" facs="tcp:162216:2"/>
+               <hi>a Personall Treaty with the King, and to bring him with ho<g ref="char:EOLhyphen"/>nour and safety to one of his houses in or near</hi> London, <hi>that he may be restored to the dignity of his Predicessors.</hi>
+            </p>
+            <p>Wherein your manifold grosse corruptions, misapprehensi<g ref="char:EOLhyphen"/>ons, dissimulations, unreasonable demands, and unwise resolu<g ref="char:EOLhyphen"/>tions, were truly and clearly (though briefly) discovered, which if ye had well, duly and timely pondered, and layed to heart, ye would have found farre more urgent cause to have been truly sorrowfull for, and to have quite desisted from such un<g ref="char:EOLhyphen"/>godly, corrupt, inconstant and foolish courses, then thus to have insisted both in more bitter expressions, and more violent acti<g ref="char:EOLhyphen"/>ons, as well by a new declaration, according to the scope of that corrupt Message, and by entring <hi>England</hi> (in a coloured way of invasion) with a new Army (composed of the most popish blou<g ref="char:EOLhyphen"/>dy crew, and prophaine abjects of your deluded and enslaved Nation) for all our guds; even to force out of us by violence, what ye cannot procure by other indirect meanes; which ye say is for establishing your Presbyterian Religion in England, and your gracious King on his Royall throne, according to your Nationall Covenant. Well, seing he who was the wisest of mankind, doth not forbid to answer those who are naturaly foo<g ref="char:EOLhyphen"/>lish, (which otherwise we call simple or Idiots) according to their foolishnes or simplicity, lest we should be like them, nei<g ref="char:EOLhyphen"/>ther biddeth us answer such uncapable men, lest they should be wise in their own conceits, but he instructeth only how to deale with those whom God had indeed with sufficient abilities, and yet do use all to sinister and contrary ends: so that his words do imply as much as if he should say, whatsoever is spoken (or otherwise expressed) more out of self-love, flattery or corrup<g ref="char:EOLhyphen"/>tion, then out of prudence, sincerity and discretion, deserveth ra<g ref="char:EOLhyphen"/>ther silence then any answer, otherwise then by way of reproof, lest the answerers should be as self-seeking, dissembled and cor<g ref="char:EOLhyphen"/>rupt as the speakers.</p>
+            <p>But his words immediatly following these, do also imply that these or such purposes being boldly insisted on by such parties, some kind of punctuall, breif and sharp answer is to be proportioned to them, according to the sense and scope of their words, lest they should be puffed up in their own fond conceits, and imagine their own Councels to be like <hi>Achitophels</hi> O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>acles,
+<pb n="3" facs="tcp:162216:2"/> and so unanswerable, that they will be (as ready as he was) to build castles in the ayre, So upon the same ground we thus deal justly &amp; plainly with you: for what greater folly or foolishnes, yea or madnes can be in the world, then that ye who not only know and professe, but in some measure practise many parts of truth, justice and freedom, though after a corrupt and confused manner, and have not only tasted, but like your forefathers a<g ref="char:EOLhyphen"/>boundantly drunke both in soul and body, that bitter cup of ty<g ref="char:EOLhyphen"/>ranny &amp; oppression even to the very dreggs.</p>
+            <p>And now although (through Gods undeserved mercy) ye b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> left free in things spirituall, and made free in things temporall, yet ye are so brutish and Sottish (yea and in this respect we may now say Scottish) that ye are so far from standing fast in those liberties, as not only content to be entangled your selves &amp; your posterities again, with the yoaks both of Antichristian and monarchicall bondage, but most maliciously both fight to be slaves your selves, and force all with your sharp swords, whom you cannot delude with your smooth words, as well of this Na<g ref="char:EOLhyphen"/>tion as of your own, &amp; as well to fight as contribute to be such miserable slaves, beggars, spectacles of shame, &amp; objects of pitty with you, that neither ye nor any whom ye so overcome, shall dare to say or do any thing, but what may agree with the in<g ref="char:EOLhyphen"/>constant humours of your wicked Governours, and time serving teachers, yea not so much as to affirme and maintaine, that ei<g ref="char:EOLhyphen"/>ther your soules, bodies, lives, wives, children, families, estates, trades or livelyhoods, are your own; but are all your most Ex<g ref="char:EOLhyphen"/>cellent, good and gracious Soveraigns, whom now again (though most bloudy and wicked) ye so Idolize and adore, that its too apparent, ye love fear and respect more then God.</p>
+            <p>Yee, (at least the honest party amongst you) ran well a while, but who did let you that ye would not proceed and obey the truth, but are weary of wel-doing, and not finish your work; ye seemed at first to be a patterne to us and other Nations, as in<g ref="char:EOLhyphen"/>deed we followed many of your actions, untill we saw your ma<g ref="char:EOLhyphen"/>nifold dissimulations; that all your most glorious beginning in the spirit, endeth most ignominiously in the flesh.</p>
+            <p>Its certaine, the whole frame of your building standeth on three pillars, which howsoever they may seem strong in them<g ref="char:EOLhyphen"/>selves, yet seing the strongest of them (as pretending to support the other two) namely your Nationall Covenant, hath but a
+<pb n="4" facs="tcp:162216:3"/> sandy foundation (&amp; not the firm rock Christ) the other two, namely Presbyteriall and Monarchiall Government, have but a rotten foundation; therefore it wilbe but the just fruits of your own labours, if the whole fabrick of your glorious Reformati<g ref="char:EOLhyphen"/>on fall only about your own cares, and not smother others: for from <hi>that great and unparalelled text, your Nationall Cove<g ref="char:EOLhyphen"/>nant,</hi> your Clergy by their words, and ye by your deeds, yea &amp; all your confederates here amongst us also by your example, have in all the troubles of these distressed and enslaved Nations, raised all your high and mysticall Doctrines for King and Par<g ref="char:EOLhyphen"/>liament, and made all your <hi>profitable usefull and notable apply<g ref="char:EOLhyphen"/>cations for men, menyes, plunder and taxes:</hi> Oh hypocrites, that tith the Mint and the Annis and the Cumin, and yet leave the greater matters of the law (even justice and judgment) undone; But God knoweth how to catch you in your moneths, even when ye are heavy in your iniquities, and ready for the sharp sickle of his judgments, though he now permit you to run on in your croked waies, &amp; do what seemeth good in your own eyes!</p>
+            <p>Ye say in your Declaration [<hi>Iuly</hi> 1648. pag. 25. line 10) that the principall cause of your engagment (in assisting our Nation against the King and his forces) was the establish<g ref="char:EOLhyphen"/>ing of your Religion, ye know there is a Proverb, <hi>Mal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m esse probus, quam haberi, Its better to be good, then est<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emed go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d;</hi> surely if you were either as good or god<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y (as appears by your practice) ye desire to be esteemed, yee would rather put your religion to tryall, as the Apostle <hi>Paul</hi> himself did his doctrine to the <hi>Be<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ans</hi> judgment, then either engage, desire of urge any religion or worship to be established, but w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is both fined &amp; refined like <hi>Gideons</hi> Army, purged and repurged like pure gold, as both the whole <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ick of the Temple, was built according to the direction of Gods word, and the Tabern<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cle according to the pattern sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wed in the Mount.</p>
+            <p>Ye cannot deny, but your r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ligion (whereof you so much boast and make such a doe) is only a humane statu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e religion, sm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lling far more of mans humane devic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen of Gods divine laws; for tis said in your Confession of Fa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h (as either <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gnorantly o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unjust<g ref="char:EOLhyphen"/>ly ye are pleas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to inti<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>:) w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich was printed at you<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> firs<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> op<g ref="char:EOLhyphen"/>posing of the Service-book, and renewing your forc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Covenant, which is (there at first inserted) that in the 69. Act or Statute of
+<pb n="5" facs="tcp:162216:3"/> the 6 Parliament of King <hi>Iames</hi> the sixt, <hi>there is no other Religion, nor face of a Kirk,</hi> (meaning in the world, but yours in Scotland) <hi>and therefore it is alwaies stiled Gods true Religion, Christs true Re<g ref="char:EOLhyphen"/>ligion, the true and Christian Religion, and a perfect Religion:</hi> and upon that most absurd principle, and corrupt foundation of a King and Parliaments Votes, lawes, acts or sttatuts, thus to praise a reli<g ref="char:EOLhyphen"/>gion either of your own or other mans framing) all of whatsoever estate or degree, are commanded under all highest temporall penal<g ref="char:EOLhyphen"/>ties as well as Church censures, that either Sathan or man can devise (as is there particularly exprest) to submit unto that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our so much boasted off Religion; as the Angel of the Church of <hi>La<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>icea</hi> (who was neither cold nor hot) boasted of his riches, and needed no thing, and yet knew not that he was wretched and miserable, and poore, and blind and naked; so it appeareth (by the greatnes of the penalties inflicted upon the despisers of that wicked decree) that in divers (respects) it is no lesse dangerous to refuse submission to your cruell Scots Religion, then it was to refuse kneeling and fal<g ref="char:EOLhyphen"/>ling down before <hi>Nebuchadnezars</hi> g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lden Image.</p>
+            <p>Touching your Monarchicall G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vernment, namely, <hi>To re-esta<g ref="char:EOLhyphen"/>blish your gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cious King on his Royall Throne, and to rest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re his most excel<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t Majesty to his former greatnes; and for these ends, that His highnes sacred person, may be brought w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th honour and safety to one of his houses in or near</hi> London, <hi>whom ye pray, may no on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y have a long and prosper<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us raign, but that he want not one of his seed to sit up<g ref="char:EOLhyphen"/>on his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hrone wh lst the Sun and Moone endureth,</hi> as may be gather<g ref="char:EOLhyphen"/>ed in divers places of your Declaration according to that corrupt, base, hypocri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icall, flattering and time-serving forme of prayer, used by the false, rotten, Episcopall and popish Clergy in theit u<g ref="char:EOLhyphen"/>suall p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayers after Sermons, as they daily both flattered him and info<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>med God of his high and lof<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y titles &amp; Royall prerogatives over all persons, ca<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es, and the like wordes before sermons; he scope o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> these words is so p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in, that there needeth no explica<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, further <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his observation.</p>
+            <p>It evidently appeareth by these &amp; the like, your and your con<g ref="char:EOLhyphen"/>feder<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>itcall and dec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>act<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at ye intend to trample under too<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and (as it were) cast into the g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ocean, all the inv<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ble b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ud which hath been spilt, and Oce<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s both of treasures and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>states which have been spent in these <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> warrs, &amp; never to call the cheif author thereof, and grand en<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>my of our peace nor any others of his cursed crue, how bloudy, c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l, tyrannicall
+<pb n="6" facs="tcp:162216:4"/> and wicked soever he and they have been to any account, but to spare both him and them all, as <hi>Saul</hi> spared <hi>Agag</hi> King of <hi>Amalck</hi> with the fat beasts, and as <hi>Ahab</hi> spared <hi>Benhadad</hi> King of <hi>Assyria,</hi> which cost them both their lives &amp; estates, al matters are so whee<g ref="char:EOLhyphen"/>led about, if God by a powerfull hand and out-stretched Arme, as he did proud <hi>Senacribs</hi> hoast humble not your pride, and lay both your flattering of tyrants, and railing on peaceable Christians in the dust, who have thus taken up Armes againe, and confederated both to spare him, though ye smart even by himself for so doing, and with <hi>English</hi> and <hi>Jrish</hi> Rebels, either to destroy or enslave us, and all who will not both submit to you, and partake with you, now after it hath pleased God to go forth so often with our Ar<g ref="char:EOLhyphen"/>mies, and not only to make him our prisoner, but to grant us so many victories over him and all your brethren in evill, the popish Cavaliers, our most open, bloody, cruell &amp; profest enemies.</p>
+            <p>And as touching your other three desires, reasons and grounds of your undertakings expressed at the end of your Declaration, concerning the Parliament of <hi>Englands</hi> freedom, and with your consent, to conclude by a Personall Treaty with his Majesty. Next concerning the pressing forward the City of <hi>Londons</hi> propositions, which were presented to the King at <hi>Oxford,</hi> and thirdly, concern<g ref="char:EOLhyphen"/>ing the disbanding the Army of Sectaries, under the Command of <hi>Thomas</hi> Lord <hi>Fairfax,</hi> we intend not here to insist, neither to fol<g ref="char:EOLhyphen"/>low you in any of your wavering relations, nor wandering repeti<g ref="char:EOLhyphen"/>tions of any matters or occurrences, throughout the corrupt body or confused masse of your Declaration, to no good, true nor solid purpose, but for your own sinister ends, and to beat the aire with aboundance of empty and flattering words, to deceive the simple, as your deceitfull Clergy have cheated and abused you, though many of them now who seem to be somwhat, do dissent; which is far more for their own ends then the publick good, they consi<g ref="char:EOLhyphen"/>dering that if any Army came into <hi>England,</hi> it wolud be a speciall means with the like <hi>English</hi> party, to bring home the King, who doubtlesse will set up Bishop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> over them again, and so put them all out of their Benefices, even from teaching ancient people the Bible, to teach young Schollers the horn-book.</p>
+            <p>Only one word concerning the Army of Sectaries; in one of K. <hi>James</hi> his large &amp; eloquent speeches at his coming into <hi>England</hi> as they stand upon record, he calleth those who held the like true prin<g ref="char:EOLhyphen"/>ciples then, by the title <hi>Puritans, and a sect not fit to live in a Com<g ref="char:EOLhyphen"/>mon-wealth,</hi>
+               <pb n="7" facs="tcp:162216:4"/> as he used somtimes upon other occasions to curse, when he should have blest, yea and to absolve the wicked, and condemne the just: and the cheif cause that moved him so to expresse his unjust judgment, was because some Puritan ministers in <hi>Scotland,</hi> had lately before his departure thence, reproved him of diverse bloudy cruelties and oppressions; and therefore he so soone as he was come into <hi>En<g ref="char:EOLhyphen"/>gland,</hi> (instead of all the long expected, and so much petitioned Re<g ref="char:EOLhyphen"/>formation) he both contiuned Bishops in <hi>England,</hi> and sett them up in <hi>Scotland;</hi> The prophaine Courtiers also before these troubles, changed the title <hi>Puritans into Roundheads;</hi> and ye (as ye do now) at your first Armies comming into <hi>England,</hi> called them <hi>Sectaries,</hi> as your Black-coats taught you when ye said, <hi>that Papists, Separatists nor Sectaries should be no more mentioned,</hi> at the conclusion of that Paper, which ye intitled, <hi>Your lawfulnes in coming into England.</hi>
+            </p>
+            <p>Now for the word, <hi>Sectary,</hi> and sometimes Schismatick, which yee are pleased to attribute in your Declaration, not only to those of our people whom ye intend to destroy, as wicked <hi>Cain</hi> did good <hi>Abell,</hi> not for any evill, that ever they did to you or others, but that they excell both your Clergy &amp; you in the best things; but likewise, to that most victorious, and renowned Army it self, who have both formerly and now (by divine providence) trod under foot many thousands of your roaring, swearing and domineering brethren (in evill,) the Popish Cavaliers. With whom though ye have confederated for that pur<g ref="char:EOLhyphen"/>pose, by your Clergies direction, because they well know, that none knowes their falshood and deceit so well, as those whom they will have the people (by their ex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mple) to call Sectaries &amp; Schismaticks: So that by their means, ye have <hi>like Saul gone to the Witch at Endor,</hi> &amp; raised those damming &amp; devouring Devills whom ye will hardly <hi>ever lay againe, without better help then your selves, till your heads be laid low in the dust.</hi>
+            </p>
+            <p>
+               <hi>Although we cannot justly call you the greatest Sectaries or Schismaticks your selvs, because ye had never that grace (or true honour) to be Members of any true visible Church of Christ, and so could never Schism or rent from it, yet we may e<g ref="char:EOLhyphen"/>steeme you the greatest hypocrites &amp; dissemblers in the world, because ye not only thus pretend to be Members of such a Church, that there is none so good in the world, but to reform both your selve &amp; all others, as well in this nation as your own, and yet, so far as can be seen or judged by your words or deeds, do intend to deform both your selves &amp; all others, whom ye can either perswad by your subtile words or compel by your bloody swords, never remembring that that great &amp; cheif ordinance of love, alloweth the same measure to be given to all, as it wisheth and expecteth to be received from all.</hi>
+            </p>
+            <pb n="8" facs="tcp:162216:5"/>
+            <p>
+               <hi>If these just admonitions &amp; reprehensions be not sufficient, to reclaim you from your evill waies, but that you will proceed from evill to worse, and still make up the measure of you iniquities, &amp; neither remember that <hi>grievous pestilence,</hi> which swept away so many thousands, &amp; ten thousands of you the last year from the face of the earth, nor <hi>Montross his devouring svvord,</hi> nor other of his &amp; your confederats, which shed so much bloud amongst you, nor any other of Gods fearfull judg<g ref="char:EOLhyphen"/>ments, which he threatneth upon these sinfull nations, especially fami<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e &amp; desola<g ref="char:EOLhyphen"/>tion, doubtles it may please the same God so to decide between you &amp; these whom ye call sectaries, and are so eager (according to your f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rced Covenant) <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o destroy, though they never gave you any just cause, that he will make either them or some othe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s his instruments, in causing you to drink that full cup of indignation, to the very dreggs your selves, which ye thus so unjustly prepare for others.</hi>
+            </p>
+            <p>
+               <hi>And in the mean time (u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll that time come) what think ye of that small third part of the <hi>Army of Sectarie</hi> (<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ince the half was disbanded by your &amp; your confede<g ref="char:EOLhyphen"/>ra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s means) who welcomed your Army now into England, are they not pretty men, have they not a just cause, and is n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <hi>Haman</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho would so faine destroy <hi>Mordecai,</hi> now begun to fall bef<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him? Have ye not broken your own solemn Covenant with our Nation, by bringi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g man <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmy to invade us &amp; or Parliament, by authority of your Parliament? <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s this a brotherly or neighbourly affecti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n any wise answe<g ref="char:EOLhyphen"/>rable to our great love and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esp ct towards you, manif<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sted in the g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eat <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of monies &amp; kind entertainment many waies ye hav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all these t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oublesom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> times re<g ref="char:EOLhyphen"/>ceived of us. Can ye, or dare ye with a good co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>science deny, but ye pass the bounds of civility as well as Christianity, in these &amp; many other your practices, whatsoever ye pretend by your words; and therefore is it no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> just with God, that ye who would devoure so many <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>usands of those who never so much as wished you harm, (but did you all the good they could, both at your first incoming, and long before) should destroy thousands of you now in their own defence?</hi>
+            </p>
+            <p>
+               <hi>If ye had as many thousand prisoners of the sectaries, as they have of you, would ye not indeed cut them off, (according to your tith-mongers instruction) rather then take any o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her lawfull or humane course to save their lives. And do ye not both see &amp; se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le the imm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>diate hand of God against you in this their and all their friends miraculous deliverances from your &amp; your confederats bloody cruelties, even by many victories over you &amp; them, though for a while ye seemed as ye under<g ref="char:EOLhyphen"/>took to be for us For as he is the Lord <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Hoasts &amp; God of battells, so he usually goeth forth with all who fight in a good cause, yea &amp; getteth the greatest glory to himself, when he hath f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st to take his part, as appeared in <hi>Gidions</hi> 300 against the great hoast of the <hi>Midinites.</hi> Thus the premisses being considered, instead of any further mentioning of your rotten popish, flattering, base &amp; slavish Decla<g ref="char:EOLhyphen"/>ration not worthy of any kind of answering, were it not for a little abating of your insolency &amp; haughtimes, and that ye should not be still wise in your own conceits, ne<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>her alwaies subdue &amp; smother the good motions &amp; honest endeavours of the dissenti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g party amongst you, by your corrupt means, we refert both you &amp; all of our <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation &amp; else where who have most need, to take into serious consideration, n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t only these observations, but likewise our former observations on your corrupt Message to the Parliament of England <hi>Nov.</hi> 1647, as tending both to one &amp; the same end; which therefore (in regard of the occurreneces since, as the matter seems now to be more reasonable, so the time also is more seasonable then for<g ref="char:EOLhyphen"/>merly) do follow here in order.</hi>
+            </p>
+            <gap reason="illegible: missing" extent="1 span">
+               <desc>〈…〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
